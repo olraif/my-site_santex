@@ -1,0 +1,16 @@
+{
+  "name": "Сантехник Кармаскалы",
+  "short_name": "Сантехник",
+  "description": "Срочный вызов сантехника в Кармаскалах и рядом. Выезд от 30 минут, работа 24/7.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061017",
+  "theme_color": "#0f6b2f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
